@@ -1,8 +1,5 @@
 from colorama import Fore, Back, Style, just_fix_windows_console
-import statistics
-import math
 import random
-from time import sleep
 just_fix_windows_console()
 
 #  Names
